@@ -32,6 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-src
+out
 *.iml
 .idea
